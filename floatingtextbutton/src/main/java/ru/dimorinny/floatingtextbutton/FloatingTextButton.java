@@ -21,7 +21,7 @@ public class FloatingTextButton extends FrameLayout {
     private CardView container;
     private ImageView leftIconView;
     private ImageView rightIconView;
-    private TextView titleView;
+    public TextView titleView;
 
     private String title;
     private int titleColor;
